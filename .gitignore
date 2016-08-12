@@ -1,0 +1,5 @@
+PearXGL/obj/*
+PearXGL/bin/*
+.vs/*
+.directory
+*.userprefs

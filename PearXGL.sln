@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PearXGL", "PearXGL\PearXGL.csproj", "{4F4481E1-ADCC-45B2-BE27-A814901D58B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PearXLib", "..\PearXLib\PearXLib\PearXLib.csproj", "{4176C1E5-6FF0-44C1-B659-C248B6A743CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F4481E1-ADCC-45B2-BE27-A814901D58B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4481E1-ADCC-45B2-BE27-A814901D58B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4481E1-ADCC-45B2-BE27-A814901D58B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4481E1-ADCC-45B2-BE27-A814901D58B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4176C1E5-6FF0-44C1-B659-C248B6A743CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4176C1E5-6FF0-44C1-B659-C248B6A743CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4176C1E5-6FF0-44C1-B659-C248B6A743CF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4176C1E5-6FF0-44C1-B659-C248B6A743CF}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
