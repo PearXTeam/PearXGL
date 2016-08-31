@@ -39,11 +39,9 @@
     <Compile Include="GLUtils.cs" />
     <Compile Include="Forms\WidgetCollection.cs" />
     <Compile Include="Forms\IWidget.cs" />
-    <Compile Include="Forms\Args\PaintArgs.cs" />
-    <Compile Include="Forms\PXGLHandlers.cs" />
-    <Compile Include="Forms\Args\MouseArgs.cs" />
-    <Compile Include="Forms\Args\MouseButtonArgs.cs" />
-    <Compile Include="Forms\Args\SizeArgs.cs" />
+    <Compile Include="Forms\Args\SizeEventArgs.cs" />
+    <Compile Include="Forms\Args\MoveEventArgs.cs" />
+    <Compile Include="Forms\Args\PaintEventArgs.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\PearXLib\PearXLib\PearXLib.csproj">

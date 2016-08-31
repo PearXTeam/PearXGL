@@ -1,7 +1,9 @@
 ﻿using System;
+
 namespace PearXGL.Args
 {
-	public class PaintArgs
+	public class PaintEventArgs : EventArgs
 	{
+		
 	}
 }
